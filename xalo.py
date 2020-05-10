@@ -4,7 +4,7 @@ import requests
 import os
 os.system('clear')
 print("\033[92m")
-os.system('figlet shaho','xalo')
+os.system('figlet xalo')
 e = open('data.txt','w')
 r = requests.session()
 d='%27'
